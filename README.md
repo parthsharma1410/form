@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React responsive form
+website link: https://loving-knuth-b94cb0.netlify.app/
+
+A responsive frontend for a form, designed like the IOS theme, using Reactjs.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
