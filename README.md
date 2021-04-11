@@ -1,7 +1,7 @@
 # React responsive form
 website link: https://loving-knuth-b94cb0.netlify.app/
 
-A responsive frontend for a form, designed like the IOS theme, using Reactjs.
+A responsive frontend for a form, designed like the IOS theme, using mobiscroll and Reactjs.
 
 ## Getting Started with Create React App
 
