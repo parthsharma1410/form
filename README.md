@@ -1,5 +1,5 @@
 # React responsive form
-website link: https://loving-knuth-b94cb0.netlify.app/
+website is hosted at: https://loving-knuth-b94cb0.netlify.app/
 
 A responsive frontend for a form, designed like the IOS theme, using mobiscroll and Reactjs.
 
